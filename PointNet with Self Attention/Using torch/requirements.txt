@@ -1,0 +1,17 @@
+h5py==2.7.0
+scipy==1.1.0
+typing==3.6.2
+Pillow==5.4.1
+nibabel==2.3.3
+open3d-python==0.5.0.0
+pptk==0.1.0
+pykitti==0.3.0
+scikit_learn==0.20.2
+termcolor==1.1.0
+lmdb>=0.9
+matplotlib>=2.1.0
+numpy>=1.14.0
+pyarrow==0.10.0
+tensorpack==0.8.9
+
+
